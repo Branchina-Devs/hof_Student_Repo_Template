@@ -2,12 +2,9 @@
 
 ## Immagini
 
-![Screenshot principale](https://url-della-tua-immagine.png)
-![Screenshot secondario](https://url-della-tua-immagine-2.png)
-
-## Altra Sezione Immagini
-
-![Demo](https://url-demo.png)
+![Img1](imgs/img1.jpg)
+![Img2](imgs/img2.jpg)
+![Img3](imgs/img3.jpg)
 
 ### Breve descrizione del progetto
 
